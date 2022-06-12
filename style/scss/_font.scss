@@ -1,0 +1,57 @@
+
+@font-face {
+  font-family: PingFangTC;
+  src: 
+  // url("../font/PingFangTC-Ultralight.otf"),
+  url("../font/PingFangTC-Light.otf"),
+  url("../font/PingFangTC-Thin.otf"),
+  url("../font/PingFangTC-Regular.otf"),
+  url("../font/PingFangTC-Medium.otf"),
+  url("../font/PingFangTC-Semibold.otf");
+}
+
+// @font-face {
+//   font-family: PingFangTC-Ultralight;
+//   src: url("../font/PingFangTC-Ultralight.otf") format('truetype');
+//   font-style: normal;
+// }
+// @font-face {
+//   font-family: PingFangTC-Light;
+//   src: url("../font/PingFangTC-Light.otf") format('truetype');
+//   font-style: normal;
+// }
+// @font-face {
+//   font-family: PingFangTC-Thin;
+//   src: url("../font/PingFangTC-Thin.otf") format('truetype');
+//   font-style: normal;
+// }
+
+// @font-face {
+//   font-family: PingFangTC-Regular;
+//   src: url("../font/PingFangTC-Regular.otf") format('truetype');
+//   font-style: normal;
+// }
+
+// @font-face {
+//   font-family: PingFangTC-Medium;
+//   src: url("../font/PingFangTC-Medium.otf") format('truetype');
+//   font-style: normal;
+// }
+
+
+// @font-face {
+//   font-family: PingFangTC-Semibold;
+//   src: url("../font/PingFangTC-Semibold.otf") format('truetype');
+//   font-style: normal;
+// }
+
+* {
+  // font-family: PingFangTC-Ultralight ,sans-serif;
+  // font-family: PingFangTC-Light, sans-serif;
+  // font-family: PingFangTC-Thin, sans-serif;
+  // font-family: PingFangTC-Regular, sans-serif;
+  // font-family: PingFangTC-Medium, sans-serif;
+  // font-family: PingFangTC-Semibold, sans-serif;
+  // font-family: 'PingFangTC-Light','PingFangTC-Ultralight', 'PingFangTC-Thin', 'PingFangTC-Regular', 'PingFangTC-Medium', 'PingFangTC-Semibold', '微軟正黑體';
+    font-family: 'PingFangTC', '微軟正黑體';
+}
